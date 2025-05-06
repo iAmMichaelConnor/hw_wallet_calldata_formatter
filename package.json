@@ -1,0 +1,18 @@
+{
+  "name": "hw_wallet_calldata_formatter",
+  "version": "1.0.1",
+  "description": "Format calldata into a format that reflects what users see on their hw wallet screen.",
+  "main": "index.js",
+  "bin": {
+    "hw_wallet_calldata_formatter": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iAmMichaelConnor",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "commander": "13.1.0"
+  }
+}
